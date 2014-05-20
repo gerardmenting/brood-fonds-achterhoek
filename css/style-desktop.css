@@ -168,11 +168,11 @@
 				font-size: 0.3em;
 				height: 2.25em;
 				line-height: 2.25em;
-				left: 50%;
+				left: 5%;
 				opacity: 0;
 				
 				/* Labels not wide enough? Increase its width below and set margin-left to ((width / 2) * -1) */
-				width: 5.5em;
+				width: 8.5em;
 				margin-left: -2.75em;
 			}
 			
